@@ -1,5 +1,5 @@
 # StudentRegistry-Part2
-[CPS209] Computer Science II: This program is an extended version of StudentRegistry-Part1.
+This program is an extended version of StudentRegistry-Part1.
 
 *NEW* Added scheduler class that creates a timetable for the various courses. The student registry can now read from a text file. With the scheduler class, there are three more commands in StudentRegistrySimulator:
 
