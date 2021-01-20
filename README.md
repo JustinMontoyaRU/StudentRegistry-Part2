@@ -1,4 +1,5 @@
 # StudentRegistrySimulator
+This program is a simple version of a student registry.
 
 StudentRegistrySimulator is the driver class and reads a line of input from the user. Most input lines contain a single word that represents a command. Some lines contain a command word and some parameter string. Here are the commands:
 
